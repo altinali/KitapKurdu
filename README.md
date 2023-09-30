@@ -2,7 +2,7 @@
 
 - Bootstrap ve React Kullanılarak Oluşturuluş Kitap Takip Programı
 - Kitap Ekleme, Çıkarma, Güncelleme ve Okundu Bilgisini Degiştirme
-- Component Kullanılarak Oluşturulmultur
+- Component Yapısı Kullanılarak Oluşturulmultur
 - Bildirim için Toastift Kütüphanesi Kullanılmıştır
 
 <h2>Ekran Alıntısı</h2>
